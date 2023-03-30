@@ -1,0 +1,157 @@
+:root {
+    color: #303030;
+    color: #FFFFFF;
+    color: #9DA4BD;
+    color: #FF6C00;
+    color: #F7F7F7;
+    color: #555555;
+    color: #000000;
+    color: #111319;
+    color: #191C26;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* Header section */
+.header {}
+
+.header-navigation {}
+
+.header-logo {}
+
+.header-list {}
+
+.header-item {}
+
+.header-link {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: calc(16 / 12);
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.header-contacts {}
+
+.header-phone {}
+
+.header-btn {}
+
+/* Hero section */
+.hero-section {}
+
+.hero-list {}
+
+.hero-item {}
+
+.hero-link {}
+
+.hero-subtitle {}
+
+.hero-title {}
+
+.hero-text {}
+
+/* Slider controls */
+.controls-list {}
+
+.controls-item {}
+
+.controls-btn {}
+
+/* About us section */
+.about-section {}
+
+.about-list {}
+
+.about-item {}
+
+.about-subtitle {}
+
+.about-title {}
+
+.about-text {}
+
+.about-btn {}
+
+/* Services and price section */
+.price-section {}
+
+.price-subtitle {}
+
+.price-title {}
+
+.price-list {}
+
+.price-item {}
+
+.price-btn {}
+
+/* Benefits section */
+.benefits-section {}
+
+.benefits-list {}
+
+.benefits-item {}
+
+.benefits-subtitle {}
+
+.benefits-title {}
+
+.benefits-text {}
+
+/* Team section */
+.team-section {}
+
+.team-subtitle {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+/* опис p */
+
+.team-icons-list {}
+
+.team-icons-item {}
+
+/* Galery section */
+.galery {}
+
+.galery-subtitle {}
+
+.galery-title {}
+
+.galery-list {}
+
+.galery-item {}
+
+/* Booking section */
+.booking {}
+
+.booking-title {}
+
+/* Contacts section */
+.contacts-section {}
+
+.contacts-title {}
+
+.contacts {}
+
+.contacts-list {}
+
+.contacts-item {}
+
+.contacts-subtitle {}
+
+.contacts-text {}
+
+/* Footer section */
+.footer {}
+
+.footer-text {}
+
+.footer-list {}
+
+.footer-item {}
